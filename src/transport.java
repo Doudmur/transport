@@ -33,7 +33,23 @@ class armyTransport{
 }
 
 class tank extends armyTransport{
-    
+
+}
+
+class katyusha extends armyTransport{
+
+}
+
+class ecoTransport{
+
+}
+
+class bicycle extends ecoTransport{
+
+}
+
+class jet extends ecoTransport{
+
 }
 
 
